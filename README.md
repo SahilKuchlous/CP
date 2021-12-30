@@ -1,4 +1,4 @@
-# CP
+# Competitve Programming Files
 This is a directory of solutions to competitive programming problems I have solved over the past 2-3 years. Many of the Olympiad problems can be found at https://oichecklist.pythonanywhere.com/, a great resource for preparation. My personal checklist is https://oichecklist.pythonanywhere.com/view/a6136b008a39e40653ead18ee8dc7aa986d1acb3.
 
 There are a few solutions that I attempted in contest and did not upsolve, and therefore may be incomplete. 
